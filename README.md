@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav0203Shetty
 - 👀 I’m interested in Aviation and photography
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning DS in C
 - 💞️ I’m looking to collaborate on web development projects
 
 
