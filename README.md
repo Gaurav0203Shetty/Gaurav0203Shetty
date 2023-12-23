@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gaurav Shetty from India<br><br>- 🔭 I’m a student at Dayananda Sagar University<br>- 📚 I'm currently learning DS in C<br>- ⚡ In my free time I taking pictures!</p>
+<p align="left">I'm Gaurav Shetty from India<br><br>- 🔭 I’m a student at Dayananda Sagar University<br>- 📚 I'm currently learning DS in C<br>- ⚡ In my free time I'm taking pictures!</p>
 
 ###
 
