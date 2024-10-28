@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav0203shetty&show_icons=true&locale=en" alt="gaurav0203shetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav0203shetty&" alt="gaurav0203shetty" /></p>
+
+[![An image of @gaurav0203shetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurav0203shetty)](https://holopin.io/@gaurav0203shetty)
