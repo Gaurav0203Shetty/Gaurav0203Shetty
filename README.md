@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **another website**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Web Dev projects**
 
 - 💬 Ask me about **frontend technologies**
 
